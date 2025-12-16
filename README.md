@@ -18,15 +18,3 @@ The framework focuses on capturing non-linear behavioral heterogeneity that trad
 
 ---
 
-## 📂 Repository Structure
-
-```text
-├── data/                  # Sample datasets (anonymized)
-├── notebooks/             # Jupyter Notebooks for exploration & visualization
-├── models/
-│   ├── econometrics/      # Biogeme/PyLogit scripts for MNL models
-│   ├── machine_learning/  # Scikit-Learn implementations (RF, SVM, GBM)
-│   └── deep_learning/     # TensorFlow/Keras models (LSTM, DNN)
-├── src/                   # Helper functions for data preprocessing & evaluation
-├── results/               # Model performance metrics and plots
-└── README.md
